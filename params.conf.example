@@ -1,0 +1,13 @@
+AWS_ACCESS_KEY_ID=AKIDSAFASDFASDFADF
+AWS_SECRET_ACCESS_KEY=dasfdjasfadsjflhuoiewurjnzcvxfdafadfsf
+KEYPAIR_NAME=foobar
+AMI=ami-43128a79
+AWS_DEFAULT_REGION=ap-southeast-2
+AZ=ap-southeast-2b
+SUBNET=subnet-12345678
+INSTANCE_TYPE=m3.medium
+KEY_PATH=/a/place/where/my/private/key/is
+SGMISC=sg-12345678
+SGWWW=sg-12345679
+SGSTRICT=sg-12345670
+MYUID=abc
